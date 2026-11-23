@@ -1,0 +1,10 @@
+{
+  "name": "service-catalog",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A local command-line service catalog with JSON persistence and input validation",
+  "scripts": {
+    "start": "node src/main.js"
+  }
+}

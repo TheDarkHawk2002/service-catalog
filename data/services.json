@@ -1,0 +1,35 @@
+[
+  {
+    "id": "svc-001",
+    "name": "Document Search",
+    "description": "Indexes internal reference documents for keyword search.",
+    "owner": "Knowledge Team",
+    "version": "2.4.1",
+    "url": "https://example.test/document-search",
+    "tags": ["search", "content"],
+    "createdAt": "2026-11-01T09:00:00.000Z",
+    "updatedAt": "2026-11-14T15:30:00.000Z"
+  },
+  {
+    "id": "svc-002",
+    "name": "Metrics Gateway",
+    "description": "Collects application metrics and exposes a read-only endpoint.",
+    "owner": "Platform Team",
+    "version": "1.8.0",
+    "url": "https://example.test/metrics",
+    "tags": ["observability", "platform"],
+    "createdAt": "2026-10-10T10:00:00.000Z",
+    "updatedAt": "2026-11-18T11:20:00.000Z"
+  },
+  {
+    "id": "svc-003",
+    "name": "File Intake",
+    "description": "Validates incoming files before they enter a processing queue.",
+    "owner": "Operations Team",
+    "version": "0.9.3",
+    "url": "",
+    "tags": ["validation", "operations"],
+    "createdAt": "2026-09-02T08:30:00.000Z",
+    "updatedAt": "2026-11-20T08:15:00.000Z"
+  }
+]
